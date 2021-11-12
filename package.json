@@ -1,0 +1,24 @@
+{
+  "name": "secondary_school_enrollment",
+  "version": "1.0.0",
+  "description": "School enrollment information",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red28mil/Enrollment.git"
+  },
+  "author": "M.Leamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/red28mil/Enrollment/issues"
+  },
+  "homepage": "https://github.com/red28mil/Enrollment#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
